@@ -1,3 +1,4 @@
 # BiasAnalyzer_Vis_JS
-JS files for the BiasAnalyzer visualization. 
-These don't work with CohortWidget.
+A PyCharm project for bundling BiasAnalyzer javascript files. Raw files are in the "src" directory.
+
+This project doesn't yet work with CohortWidget.
