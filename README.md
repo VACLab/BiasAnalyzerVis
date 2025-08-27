@@ -5,6 +5,6 @@ Files that are the javascript files from CohortWidget that have had AnyWidget as
 
 Files that have been prepared for bundling are in the "src" directory. 
 
-Bundles are in the "dist" directory. <span style="color:red">NOTE: This has not yet been tested with CohortWidget.</span>
+Bundles are in the "dist" directory. NOTE: This has not yet been tested with CohortWidget.
 
 Dependencies have not been added to git. If you want to bundle, you'll need to install vite with your npm, then run npm install to get the dependencies.
