@@ -1,7 +1,7 @@
 # BiasAnalyzer_Vis_JS
 A PyCharm project for bundling BiasAnalyzer javascript files. 
 
-Files that are the javascript files from CohortWidget that have had AnyWidget aspects removed are in the "raw_js" directory.
+Files that are the javascript files from CohortWidget that have had AnyWidget aspects removed are in the "raw_js" directory. There is also a utils.py file in "raw_js" that is used to fetch cohort data.
 
 Files that have been prepared for bundling are in the "src" directory. 
 
