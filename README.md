@@ -1,10 +1,10 @@
-# BiasAnalyzer_Vis_JS
+# BiasAnalyzerVis
 A PyCharm project for bundling BiasAnalyzer javascript files. 
 
-Files that are the javascript files from CohortWidget that have had AnyWidget aspects removed are in the "raw_js" directory. There is also a utils.py file in "raw_js" that is used to fetch cohort data.
+Files that are the javascript files from BiasAnalyzerWidget that have had AnyWidget aspects removed are in the "raw_js" directory. There is also a utils.py file in "raw_js" that is used to fetch cohort data.
 
 Files that have been prepared for bundling are in the "src" directory. 
 
-Bundles are in the "dist" directory. NOTE: This has not yet been tested with CohortWidget.
+Bundles are in the "dist" directory. NOTE: This has not yet been tested with BiasAnalyzerWidget.
 
 Dependencies have not been added to git. If you want to bundle, you'll need to install vite with your npm, then run npm install to get the dependencies.
